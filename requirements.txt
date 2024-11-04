@@ -1,0 +1,9 @@
+googletrans==4.0.0-rc1
+gtts==2.3.0
+google-generativeai
+streamlit
+python-dotenv
+Pillow
+chainlit
+pdf2image
+PyPDF2
